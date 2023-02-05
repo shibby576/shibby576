@@ -1,7 +1,6 @@
-## Hi there, I'm Jonathan 🤙
-### Founder & product manager
+## Hi there, I'm Jonathan 🤙 Founder & product manager
 ### this is a collection of my work
-
+Most recent project: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Deploying a model to production</a>
 
 
 📫 You can reach me at: jhirko12@gmail.com
