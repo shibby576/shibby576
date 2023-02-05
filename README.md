@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan 🤙 Founder & product manager
 
-Most recent project: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Deploying a model to production</a>
+Most recent project: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Creating a basic ML product</a>
 
 Previous projects: 
 <ul>
