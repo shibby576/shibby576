@@ -2,7 +2,7 @@
 
 Most recent project: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Creating a basic ML product</a>
 
-Previous projects: 
+Previous personal projects: 
 <ul>
   <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">MBA Data science course</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
@@ -12,6 +12,12 @@ Previous projects:
 
 <a href="https://medium.com/@jhirko12" target="_blank">Writing about Product and ML on Medium</a>
 
+Previous work experience  
+<ul>
+  <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
+  <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
+  <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
+</ul>
 
 
 📫 You can reach me at: 
