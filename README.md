@@ -1,10 +1,24 @@
-## Hi there, I'm Jonathan 🤙 
-## Founder & product manager
-### This is a collection of my work
+## Hi there, I'm Jonathan 🤙 Founder & product manager
+
 Most recent project: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Deploying a model to production</a>
 
+Previous projects: 
+<ul>
+  <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">MBA Data science course</a></li>
+  <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
+  <li><a href="https://github.com/shibby576/data_sandbox/tree/master/DL_Explore" target="_blank">DL project</a></li>
+</ul>
 
-📫 You can reach me at: jhirko12@gmail.com
+
+<a href="https://medium.com/@jhirko12" target="_blank">Writing about Product and ML on Medium</a>
+
+
+
+📫 You can reach me at: 
+<ul>
+  <li>jhirko12@gmail.com</li>
+  <li><a href="https://www.linkedin.com/in/jonathanehirko/" target="_blank">LinkedIn</a></li>
+</ul>
 
 
 <!--
