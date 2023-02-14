@@ -11,7 +11,7 @@
 
 ### Previous personal projects: 
 <ul>
-  <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">MBA Data science course</a></li>
+  <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/tree/master/DL_Explore" target="_blank">DL project</a></li>
 </ul>
