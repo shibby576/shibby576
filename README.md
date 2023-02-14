@@ -9,19 +9,19 @@
   <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
 </ul>
 
-### Previous personal projects: 
-<ul>
-  <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
-  <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
-  <li><a href="https://github.com/shibby576/data_sandbox/tree/master/DL_Explore" target="_blank">DL project</a></li>
-</ul>
-
 ### Writing:
 <ul>
   <li><a href="https://medium.com/towards-data-science/three-steps-for-a-successful-machine-learning-project-baac098ba775" target="_blank">Three steps for a successful machine learning project</a></li>
   <li><a href="https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6" target="_blank">Exploring XGBoost</a></li>
   <li><a href="https://towardsdatascience.com/a-journey-into-supervised-machine-learning-f26f238b0477" target="_blank">A journey into supervised machine learning</a></li>
   <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
+</ul>
+
+### Previous personal projects: 
+<ul>
+  <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
+  <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
+  <li><a href="https://github.com/shibby576/data_sandbox/tree/master/DL_Explore" target="_blank">DL project</a></li>
 </ul>
 
 ### 📫 You can reach me at: 
