@@ -1,8 +1,9 @@
 ## Hi there, I'm Jonathan 🤙 Founder & product manager
 
 ### Most recent project 👀: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Creating a basic ML product</a>
+### On going learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
-### Work experience  
+### Work experience 👨🏻‍💻  
 <ul>
   <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
   <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
