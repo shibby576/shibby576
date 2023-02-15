@@ -1,7 +1,7 @@
 ## Hi there, I'm Jonathan 🤙 Founder & product manager
 
 ### Most recent project 👀: <a href="https://github.com/shibby576/WineSite/blob/main/README.md" target="_blank">Creating a basic ML product</a>
-### On going learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
+### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
 ### Work experience 👨🏻‍💻  
 <ul>
