@@ -22,6 +22,7 @@
 
 ### Previous personal projects: 
 <ul>
+  <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a></li>
   <li><a href="https://github.com/shibby576/Inventory_test" target="_blank">Inventory search prototype @ Beep</a></li>
   <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
