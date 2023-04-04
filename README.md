@@ -4,13 +4,6 @@
 
 ### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
-### Work experience 👨🏻‍💻  
-<ul>
-  <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
-  <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
-  <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
-</ul>
-
 ### Writing:
 <ul>
   <li>⭐️Most recent: <a href="https://www.linkedin.com/pulse/reflection-my-time-building-beep-jonathan-hirko" target="_blank">Reflection on building Beep</a></li>
@@ -20,7 +13,7 @@
   <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
 </ul>
 
-### Previous personal projects: 
+### Personal projects: 
 <ul>
   <li>⭐️Most recent: <a href="https://github.com/shibby576/gpt_playground" target="_blank">Data summarization with OpenAI</a></li>
   <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a></li>
@@ -28,6 +21,13 @@
   <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/blob/master/DL_Explore/fake_hotel_reviews.ipynb" target="_blank">DL project</a></li>
+</ul>
+
+### Work experience 👨🏻‍💻  
+<ul>
+  <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
+  <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
+  <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
 </ul>
 
 ### 📫 You can reach me at: 
