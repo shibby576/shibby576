@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan 🤙 Founder & product manager
 
-### Most recent project: <a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a>
+### Featured project: <a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a>
 
 ### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
@@ -22,7 +22,7 @@
 
 ### Previous personal projects: 
 <ul>
-  <li><a href="https://github.com/shibby576/gpt_playground" target="_blank">Data summarization with OpenAI</a></li>
+  <li>⭐️Most recent: <a href="https://github.com/shibby576/gpt_playground" target="_blank">Data summarization with OpenAI</a></li>
   <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a></li>
   <li><a href="https://github.com/shibby576/Inventory_test" target="_blank">Inventory search prototype @ Beep</a></li>
   <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
