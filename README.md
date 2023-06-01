@@ -16,6 +16,7 @@
 ### Personal projects: 
 <ul>
   <li>⭐️interesting!<a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a></li>
+  <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project with GCP & Mage</a></li>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a></li>
   <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a></li>
   <li><a href="https://github.com/shibby576/gpt_playground" target="_blank">Data summarization with OpenAI</a></li>
