@@ -4,18 +4,9 @@
 
 ### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
-### Writing:
-<ul>
-  <li>⭐️Most recent: <a href="https://www.linkedin.com/pulse/reflection-my-time-building-beep-jonathan-hirko" target="_blank">Reflection on building Beep</a></li>
-  <li><a href="https://medium.com/towards-data-science/three-steps-for-a-successful-machine-learning-project-baac098ba775" target="_blank">Three steps for a successful machine learning project</a></li>
-  <li><a href="https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6" target="_blank">Exploring XGBoost</a></li>
-  <li><a href="https://towardsdatascience.com/a-journey-into-supervised-machine-learning-f26f238b0477" target="_blank">A journey into supervised machine learning</a></li>
-  <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
-</ul>
-
 ### Personal projects: 
 <ul>
-  <li>⭐️interesting!<a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a></li>
+  <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a></li>
   <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project with GCP & Mage</a></li>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a></li>
   <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a></li>
@@ -31,6 +22,15 @@
   <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
   <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
   <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
+</ul>
+
+### Writing:
+<ul>
+  <li>⭐️Most recent: <a href="https://www.linkedin.com/pulse/reflection-my-time-building-beep-jonathan-hirko" target="_blank">Reflection on building Beep</a></li>
+  <li><a href="https://medium.com/towards-data-science/three-steps-for-a-successful-machine-learning-project-baac098ba775" target="_blank">Three steps for a successful machine learning project</a></li>
+  <li><a href="https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6" target="_blank">Exploring XGBoost</a></li>
+  <li><a href="https://towardsdatascience.com/a-journey-into-supervised-machine-learning-f26f238b0477" target="_blank">A journey into supervised machine learning</a></li>
+  <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
 </ul>
 
 ### 📫 You can reach me at: 
