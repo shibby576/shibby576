@@ -6,12 +6,12 @@
 
 ### Personal projects: 
 <ul>
-  <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a> Python + Langchain + Boostrap + Flask + Heroku</li>
+  <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a> Python + Langchain + Bootstrap + Flask + Heroku</li>
   <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project</a> Python + Mage + GCP + Looker Studio</li>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
   <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a> Python + Streamlit</li>
-  <li><a href="https://github.com/shibby576/gpt_playground" target="_blank">Data summarization with OpenAI</a> Python + Boostrap + Flask + Heroku + OpenAI</li>
-  <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a> Python + SKlearn + Boostrap + Flask + Heroku</li>
+  <li><a href="https://github.com/shibby576/gpt_playground" target="_blank">Data summarization with OpenAI</a> Python + Bootstrap + Flask + Heroku + OpenAI</li>
+  <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a> Python + SKlearn + Bootstrap + Flask + Heroku</li>
   <li><a href="https://github.com/shibby576/wild_data_science" target="_blank">Data science course @ Cornell</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/tree/master/ML_Explore" target="_blank">Random ML projects</a></li>
   <li><a href="https://github.com/shibby576/data_sandbox/blob/master/DL_Explore/fake_hotel_reviews.ipynb" target="_blank">DL project</a></li>
