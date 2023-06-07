@@ -2,8 +2,6 @@
 
 ### Featured project: <a href="https://playoffchat.herokuapp.com/" target="_blank">Use embeddings to interact with video transcript</a>
 
-### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
-
 ### Personal projects: 
 <ul>
   <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a> Python + Langchain + Bootstrap + Flask + Heroku   <a href="https://github.com/shibby576/chiclet" target="_blank">Link to repo</a></li>
@@ -32,6 +30,8 @@
   <li><a href="https://towardsdatascience.com/a-journey-into-supervised-machine-learning-f26f238b0477" target="_blank">A journey into supervised machine learning</a></li>
   <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
 </ul>
+
+### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
 ### 📫 You can reach me at: 
 <ul>
