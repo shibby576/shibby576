@@ -4,7 +4,7 @@
 
 ### Personal projects: 
 <ul>
-  <li><a href="https://spot-bot.xyz/" target="_blank">SpotBot Spotify Agent (Work in progress, email for access)</a> Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku   <a href="https://github.com/shibby576/chiclet" target="_blank">Link to repo</a></li>
+  <li><a href="https://spot-bot.xyz/" target="_blank">SpotBot Spotify Agent (Work in progress, email for access)</a> Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
   <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Use Embeddings to intereact with video transcript</a> Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku   <a href="https://github.com/shibby576/chiclet" target="_blank">Link to repo</a></li>
   <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project</a> Python + Mage + GCP + Looker Studio</li>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
