@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan 🤙 Founder & product manager
 
-### Featured project: <a href="https://playoffchat.herokuapp.com/" target="_blank">Use embeddings to interact with video transcript</a>
+### Featured project: <a href="https://www.spot-bot.xyz/">SpotBot Spotify Agent (Work in progress, email for access)</a>
 
 ### Personal projects: 
 <ul>
@@ -32,8 +32,6 @@
   <li><a href="https://towardsdatascience.com/a-journey-into-supervised-machine-learning-f26f238b0477" target="_blank">A journey into supervised machine learning</a></li>
   <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
 </ul>
-
-### Current learning 📚: <a href='https://github.com/shibby576/code_academy_DS'>Code Academy DS: ML specialist career path</a>
 
 ### 📫 You can reach me at: 
 <ul>
