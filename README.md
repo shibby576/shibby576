@@ -15,7 +15,12 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
       <li> Demo | <a href="https://playoffchat.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/chiclet/tree/main">Repo</a></li>    
     </ul>
-  <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a> Python + SKlearn + Bootstrap + Flask + Heroku <a href="https://winesite.herokuapp.com/" target="_blank">Link to live site</a </li>
+  <li><b>Wine Evaluator: Simple full-stack ML project to judge wine quality</b></li>
+    <ul>
+      <li>Having worked with ML only in notebooks and as a PM, I wanted to learn how to build, deploy and use a model in an application. I also enjoy wine, so even if this wasn’t the highest quality product, it was a fun one to build. <a href="https://github.com/shibby576/WineSite">Learn more here</a>.</li>
+      <li>Tech stack: Python + SKlearn + Bootstrap + Flask + Heroku</li>
+      <li> <a href="https://winesite.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/WineSite">Repo</a></li>    
+    </ul>
   <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project</a> Python + Mage + GCP + Looker Studio</li>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
   <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a> Python + Streamlit</li>
