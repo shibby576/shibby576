@@ -2,7 +2,7 @@
 Experienced product manager and amateur chatGPT assisted programmer. Here you'll find a collection of work Ive built/written on my own or have been part of. Let's build something together!
 
 ### Personal projects 🛠 
-#### AI/ML
+#### AI/ML 🦾
   <b>SpotBot: Autonomous Spotify agent and DJ</b>
     <ul>
       <li>SpotBot’s purpose is to give users a music side kick. By integrating directly into your Spotify account, SpotBot can control your music player, play specific tracks, and find similar music to play. <a href="https://github.com/shibby576/spot-bot">Learn more here</a>. Email for access.</li>
@@ -38,7 +38,7 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
   <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
 </ul>
 
-### Writing:
+### Writing 🖋
 <ul>
   <li><a href="https://medium.com/@jhirko12/navigating-the-path-to-reliable-autonomy-evaluating-langchain-agent-behavior-7b4cf3771766" target="_blank">Evaluating LangChain Agent Behavior</a></li>
   <li><a href="https://www.linkedin.com/pulse/reflection-my-time-building-beep-jonathan-hirko" target="_blank">Reflection on building Beep</a></li>
@@ -48,7 +48,7 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
   <li><a href="https://medium.com/@jhirko12" target="_blank">Other</a></li>
 </ul>
 
-### 📫 You can reach me at: 
+### 📫 You can reach me at 
 <ul>
   <li>jhirko12@gmail.com</li>
   <li><a href="https://www.linkedin.com/in/jonathanehirko/" target="_blank">LinkedIn</a></li>
