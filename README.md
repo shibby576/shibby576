@@ -5,9 +5,9 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
 <ul>
   <li><b>SpotBot: Autonomous Spotify agent and DJ</b></li>
     <ul>
-      <li>SpotBot’s purpose is to give users a music side kick. By integrating directly into your Spotify account, SpotBot can control your music player, play specific tracks, and find similar music to play. Learn more here. Email for access.</li>
+      <li>SpotBot’s purpose is to give users a music side kick. By integrating directly into your Spotify account, SpotBot can control your music player, play specific tracks, and find similar music to play. <a href="https://github.com/shibby576/spot-bot">Learn more here</a>. Email for access.</li>
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
-      <li>Demo | <a href="https://www.spot-bot.xyz/">Live site</a> | Repo</li>    
+      <li> Demo | <a href="https://www.spot-bot.xyz/">Live site</a> | <a href="https://github.com/shibby576/spot-bot">Repo</a></li>    
     </ul>
   <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Retrieval Augmented Generation (RAG) to interact with video transcript</a> Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku   <a href="https://github.com/shibby576/chiclet" target="_blank">Link to repo</a></li>
   <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a> Python + SKlearn + Bootstrap + Flask + Heroku <a href="https://winesite.herokuapp.com/" target="_blank">Link to live site</a </li>
