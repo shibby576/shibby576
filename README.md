@@ -7,7 +7,7 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
     <ul>
       <li>SpotBot’s purpose is to give users a music side kick. By integrating directly into your Spotify account, SpotBot can control your music player, play specific tracks, and find similar music to play. <a href="https://github.com/shibby576/spot-bot">Learn more here</a>. Email for access.</li>
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
-      <li> Demo | <a href="https://www.spot-bot.xyz/">Live site</a> | <a href="https://github.com/shibby576/spot-bot">Repo</a></li>    
+      <li> <a href="https://www.linkedin.com/posts/jonathanehirko_llm-ai-startups-activity-7082731257796718593-pugH?utm_source=share&utm_medium=member_desktop"> Demo</a> | <a href="https://www.spot-bot.xyz/">Live site</a> | <a href="https://github.com/shibby576/spot-bot">Repo</a></li>    
     </ul>
     <b>Chiclets Q&A: RAG app for podcast transcript</b>
     <ul>
