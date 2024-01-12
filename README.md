@@ -2,34 +2,39 @@
 Experienced product manager and amateur chatGPT assisted programmer. Here you'll find a collection of work Ive built/written on my own or have been part of. Let's build something together!
 
 ### Personal projects 🛠 
-<ul>
-  <li><b>SpotBot: Autonomous Spotify agent and DJ</b></li>
+#### AI/ML
+  <b>SpotBot: Autonomous Spotify agent and DJ</b>
     <ul>
       <li>SpotBot’s purpose is to give users a music side kick. By integrating directly into your Spotify account, SpotBot can control your music player, play specific tracks, and find similar music to play. <a href="https://github.com/shibby576/spot-bot">Learn more here</a>. Email for access.</li>
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
       <li> Demo | <a href="https://www.spot-bot.xyz/">Live site</a> | <a href="https://github.com/shibby576/spot-bot">Repo</a></li>    
     </ul>
-  <li><b>Chiclets Q&A: RAG app for podcast transcript</b></li>
+    <b>Chiclets Q&A: RAG app for podcast transcript</b>
     <ul>
       <li>Chiclets Q&A allows users to ask questions about a specific Spittin Chiclets (a hockey podcast) episode and responds as if the hosts are providing the answer. These podcasts run 2 - 4 hours long and during the `23 NHL playoffs, I found my self wanting the host’s perspective on recent games but not having time to listen to the entire episode. <a href="https://github.com/shibby576/chiclet/tree/main">Learn more here</a>.</li>
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
       <li> Demo | <a href="https://playoffchat.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/chiclet/tree/main">Repo</a></li>    
     </ul>
-  <li><b>Wine Evaluator: Simple full-stack ML project to judge wine quality</b></li>
+  <b>Wine Evaluator: Simple full-stack ML project to judge wine quality</b>
     <ul>
       <li>Having worked with ML only in notebooks and as a PM, I wanted to learn how to build, deploy and use a model in an application. I also enjoy wine, so even if this wasn’t the highest quality product, it was a fun one to build. <a href="https://github.com/shibby576/WineSite">Learn more here</a>.</li>
       <li>Tech stack: Python + SKlearn + Bootstrap + Flask + Heroku</li>
       <li> <a href="https://winesite.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/WineSite">Repo</a></li>    
     </ul>
-    <li><b>NYC Taxi data insights: A data engineering tutorial</b></li>
+#### Other misc data projects
+  <ul>
+  <li><b>NYC Taxi data insights: A data engineering tutorial</b></li>
     <ul>
-      <li>In an effort to go deeper into the data stack, I followed a data engineer tutorial to build pipelines with Mage on GCP then analyze that data in Big Query and Looker Studio.</li>
-      <li>Tech stack: Python + Mage + GCP + Looker Studio</li>
+      <li>Data engineer tutorial to build pipelines with Mage on GCP then analyze that data in Big Query and Looker Studio.</li>
       <li> <a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ/?utm_source=share&utm_medium=member_desktop">Post</a> | <a href="https://lookerstudio.google.com/u/0/reporting/20901db7-026f-44a7-80fb-0686fcbe3a8c/page/oOsOD?s=vRl-2jijU3k">Looker</a></li>    
     </ul>
-  <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
-  <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a> Python + Streamlit</li>
-</ul>
+    <li>Car dealer data tool prototypes</li>
+    <ul>  
+     <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
+      <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a> Python + Streamlit</li>
+    </ul>
+  </ul>
+
 
 ### Work experience 👨🏻‍💻  
 <ul>
