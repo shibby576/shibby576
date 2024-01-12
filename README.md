@@ -9,7 +9,12 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
       <li> Demo | <a href="https://www.spot-bot.xyz/">Live site</a> | <a href="https://github.com/shibby576/spot-bot">Repo</a></li>    
     </ul>
-  <li><a href="https://playoffchat.herokuapp.com/" target="_blank">Retrieval Augmented Generation (RAG) to interact with video transcript</a> Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku   <a href="https://github.com/shibby576/chiclet" target="_blank">Link to repo</a></li>
+  <li><b>Chiclets Q&A: RAG app for podcast transcript</b></li>
+    <ul>
+      <li>Chiclets Q&A allows users to ask questions about a specific Spittin Chiclets (a hockey podcast) episode and responds as if the hosts are providing the answer. These podcasts run 2 - 4 hours long and during the `23 NHL playoffs, I found my self wanting the host’s perspective on recent games but not having time to listen to the entire episode. <a href="https://github.com/shibby576/chiclet/tree/main">Learn more here</a>.</li>
+      <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
+      <li> Demo | <a href="https://playoffchat.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/chiclet/tree/main">Repo</a></li>    
+    </ul>
   <li><a href="https://github.com/shibby576/WineSite#readme" target="_blank">Creating a basic ML product</a> Python + SKlearn + Bootstrap + Flask + Heroku <a href="https://winesite.herokuapp.com/" target="_blank">Link to live site</a </li>
   <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project</a> Python + Mage + GCP + Looker Studio</li>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
