@@ -23,7 +23,7 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
     </ul>
 #### Other misc data projects
   <ul>
-  <li><b>NYC Taxi data insights:</b> A data engineering tutorial to build pipelines with Mage on GCP then do analysis in Big Query and Looker Studio. <a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ/?utm_source=share&utm_medium=member_desktop">Post</a> | <a href="https://lookerstudio.google.com/u/0/reporting/20901db7-026f-44a7-80fb-0686fcbe3a8c/page/oOsOD?s=vRl-2jijU3k">Looker</a></li>
+  <li><b>NYC Taxi insights:</b> A data engineering tutorial to build pipelines with Mage on GCP then do analysis in Big Query and Looker Studio. <a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ/?utm_source=share&utm_medium=member_desktop">Post</a> | <a href="https://lookerstudio.google.com/u/0/reporting/20901db7-026f-44a7-80fb-0686fcbe3a8c/page/oOsOD?s=vRl-2jijU3k">Looker</a></li>
     
   <li><b>Car dealer inventory search</b> prototype help dealers find vehicles in a customer's price range. Written in Python, deployed on Streamlit. <a href="https://lotalyticssearch.streamlit.app/">Live app</a></li>
   <li><b>Car dealer DMS dashboard</b> prototype help dealers visualize their sales data. Written in Python, deployed on Streamlit. <a href="https://lotalyticsdms.streamlit.app/">Live app</a></li>
