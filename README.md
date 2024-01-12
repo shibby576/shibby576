@@ -1,4 +1,4 @@
-## Hi there, I'm Jonathan 🤙 Founder & product manager
+## Hi there, I'm Jonathan 🤙 Founder & Product Manager
 
 ### Featured project: <a href="https://www.spot-bot.xyz/">SpotBot Spotify Agent (Work in progress, email for access)</a>
 
@@ -19,6 +19,7 @@
 
 ### Work experience 👨🏻‍💻  
 <ul>
+  <li><a href="https://aivy.ai/" target="_blank">Head of Product @ Semantiks.ai</a> | <a href="https://semantiks.ai/" target="_blank">Semantiks.ai</a></li>
   <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
   <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
   <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
@@ -26,6 +27,7 @@
 
 ### Writing:
 <ul>
+  <li><a href="https://medium.com/@jhirko12/navigating-the-path-to-reliable-autonomy-evaluating-langchain-agent-behavior-7b4cf3771766" target="_blank">Evaluating LangChain Agent Behavior</a></li>
   <li><a href="https://www.linkedin.com/pulse/reflection-my-time-building-beep-jonathan-hirko" target="_blank">Reflection on building Beep</a></li>
   <li><a href="https://medium.com/towards-data-science/three-steps-for-a-successful-machine-learning-project-baac098ba775" target="_blank">Three steps for a successful machine learning project</a></li>
   <li><a href="https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6" target="_blank">Exploring XGBoost</a></li>
