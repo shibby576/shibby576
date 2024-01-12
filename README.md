@@ -11,7 +11,7 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
     </ul>
     <b>Chiclets Q&A: RAG app for podcast transcript</b>
     <ul>
-      <li>Chiclets Q&A allows users to ask questions about a specific Spittin Chiclets (a hockey podcast) episode and responds as if the hosts are providing the answer. These podcasts run 2 - 4 hours long and during the `23 NHL playoffs, I found my self wanting the host’s perspective on recent games but not having time to listen to the entire episode. <a href="https://github.com/shibby576/chiclet/tree/main">Learn more here</a>.</li>
+      <li>Chiclets Q&A allows users to ask questions about a specific Spittin Chiclets (a hockey podcast) episode and responds as if the hosts are providing the answer. Get insights from the episode without listening to the entire show. <a href="https://github.com/shibby576/chiclet/tree/main">Learn more here</a>.</li>
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
       <li> Demo | <a href="https://playoffchat.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/chiclet/tree/main">Repo</a></li>    
     </ul>
