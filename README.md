@@ -21,7 +21,12 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
       <li>Tech stack: Python + SKlearn + Bootstrap + Flask + Heroku</li>
       <li> <a href="https://winesite.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/WineSite">Repo</a></li>    
     </ul>
-  <li><a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ?utm_source=share&utm_medium=member_desktop" target="_blank">Data engineering project</a> Python + Mage + GCP + Looker Studio</li>
+    <li><b>NYC Taxi data insights: A data engineering tutorial</b></li>
+    <ul>
+      <li>In an effort to go deeper into the data stack, I followed a data engineer tutorial to build pipelines with Mage on GCP then analyze that data in Big Query and Looker Studio.</li>
+      <li>Tech stack: Python + Mage + GCP + Looker Studio</li>
+      <li> <a href="https://www.linkedin.com/posts/jonathanehirko_dataengineering-activity-7059221630962597888-aAPZ/?utm_source=share&utm_medium=member_desktop">Post</a> | <a href="https://lookerstudio.google.com/u/0/reporting/20901db7-026f-44a7-80fb-0686fcbe3a8c/page/oOsOD?s=vRl-2jijU3k">Looker</a></li>    
+    </ul>
   <li><a href="https://lotalyticssearch.streamlit.app/" target="_blank">Inventory search prototype</a> Python + Streamlit</li>
   <li><a href="https://lotalyticsdms.streamlit.app/" target="_blank">DMS data dashboard</a> Python + Streamlit</li>
 </ul>
