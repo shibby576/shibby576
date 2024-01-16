@@ -1,5 +1,7 @@
 ## Hi there, I'm Jonathan 🤙 Founder & Product Manager
-Experienced product manager and amateur chatGPT assisted programmer. Here you'll find a collection of work Ive built/written on my own or have been part of. Let's build something together!
+Experienced product manager and amateur chatGPT assisted programmer. This is a collection of my personal and professional work. 
+
+<b>Latest professional project:</b> 🤖 Autonomous agents at Semantiks. <a href="https://github.com/shibby576/semantiks_portfolio/tree/main">See portfolio</a>
 
 ### Personal projects 🛠 
 #### AI/ML 🦾
@@ -32,7 +34,7 @@ Experienced product manager and amateur chatGPT assisted programmer. Here you'll
 
 ### Work experience 👨🏻‍💻  
 <ul>
-  <li><a href="https://aivy.ai/" target="_blank">Head of Product @ Semantiks.ai</a> | <a href="https://semantiks.ai/" target="_blank">Semantiks.ai</a></li>
+  <li><a href="https://aivy.ai/" target="_blank">Head of Product @ Semantiks.ai</a> | <a href="https://semantiks.ai/" target="_blank">Semantiks.ai</a> | <a href="https://github.com/shibby576/semantiks_portfolio/tree/main">Portfolio</a></li>
   <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
   <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
   <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
