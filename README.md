@@ -15,7 +15,7 @@ Experienced product manager and amateur chatGPT assisted programmer. This is a c
     <ul>
       <li>Chiclets Q&A allows users to ask questions about a specific Spittin Chiclets (a hockey podcast) episode and responds as if the hosts are providing the answer. Get insights from the episode without listening to the entire show. <a href="https://github.com/shibby576/chiclet/tree/main">Learn more here</a>.</li>
       <li>Tech stack: Python + Langchain + GPT3.5 + Bootstrap + Flask + Heroku</li>
-      <li> Demo | <a href="https://playoffchat.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/chiclet/tree/main">Repo</a></li>    
+      <li> <a href="https://github.com/shibby576/chiclet/tree/main">Demo</a> | <a href="https://playoffchat.herokuapp.com/">Live site</a> | <a href="https://github.com/shibby576/chiclet/tree/main">Repo</a></li>    
     </ul>
   <b>Wine Evaluator: Simple full-stack ML project to judge wine quality</b>
     <ul>
