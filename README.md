@@ -1,5 +1,5 @@
 ## Hi there, I'm Jonathan 🤙 Founder & Product Manager
-Experienced product manager and amateur chatGPT assisted programmer. This is a collection of my personal and professional work. 
+Founder, experienced product manager and amateur chatGPT assisted programmer. This is a collection of my personal and professional work. 
 
 ### Latest professional project: 
 🤖 Building autonomous agents at Semantiks. <a href="https://github.com/shibby576/semantiks_portfolio/tree/main">See portfolio here</a> 🤖
