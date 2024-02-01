@@ -4,7 +4,7 @@ Founder, experienced product manager and amateur chatGPT assisted programmer. Le
 #### Current professional experience 
 🤖 Head of Product @ Semantiks, building autonomous agents. <a href="https://github.com/shibby576/semantiks_portfolio/tree/main">Semantiks overview</a> 🤖
 
-#### Prior work experience 👨🏻‍💻  
+#### Past product experience 👨🏻‍💻  
 <ul>
   <li><a href="https://beepauto.com/" target="_blank">Co-Founder and Head of Product @ Beep</a></li>
   <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
