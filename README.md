@@ -42,7 +42,6 @@ Founder, experienced product manager and amateur chatGPT assisted programmer. Le
 ### Writing 🖋
 <ul>
   <li><a href="https://medium.com/@jhirko12/navigating-the-path-to-reliable-autonomy-evaluating-langchain-agent-behavior-7b4cf3771766" target="_blank">Evaluating LangChain Agent Behavior</a></li>
-  <li><a href="https://www.linkedin.com/pulse/reflection-my-time-building-beep-jonathan-hirko" target="_blank">Reflection on building Beep</a></li>
   <li><a href="https://medium.com/towards-data-science/three-steps-for-a-successful-machine-learning-project-baac098ba775" target="_blank">Three steps for a successful machine learning project</a></li>
   <li><a href="https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6" target="_blank">Exploring XGBoost</a></li>
   <li><a href="https://towardsdatascience.com/a-journey-into-supervised-machine-learning-f26f238b0477" target="_blank">A journey into supervised machine learning</a></li>
