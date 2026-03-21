@@ -1,11 +1,12 @@
 ## Hi there, I'm Jonathan 🤙 Founder & Product Manager
-Founder, experienced product manager and amateur chatGPT assisted programmer. Lets build something
+Experienced product manager & founder. Lets build something
 
 #### Current professional experience 
-🤖 Head of Product @ Semantiks, building autonomous agents. <a href="https://github.com/shibby576/semantiks_portfolio/tree/main">Semantiks overview</a> 🤖
+🤖 Product Manager @ Meta, building AI products. 🤖
 
 #### Past product experience 👨🏻‍💻  
 <ul>
+  <li>Head of Product @ Semantiks, built autonomous agents. <a href="https://github.com/shibby576/semantiks_portfolio/tree/main">Semantiks overview</a></li>
   <li>Co-Founder and Head of Product @ Beep <a href="https://github.com/shibby576/semantiks_portfolio/blob/main/beep.md" target="_blank">Company overview</a></li>
   <li><a href="https://www.verizon.com/about/news/verizon-cloud-unlimited" target="_blank">Sr. PM @ Verizon Cloud</a></li>
   <li><a href="https://oliveai.com/" target="_blank">Sr Director of Product @ Olive AI</a></li>
