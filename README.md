@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan 👋 AI Product Manager & Founder
 
-I ship AI products at scale — and build with the tools I manage.
+I turn frontier model capabilities into products people love.
 
 #### Currently
 🤖 Product Manager @ Meta, building AI products. Shipped 0→1 agentic support experiences now serving billions of users.
@@ -12,6 +12,7 @@ I ship AI products at scale — and build with the tools I manage.
 - **Sr. Director of Product @ Olive AI** — healthcare automation platform across 900+ hospitals
 
 ### Building 🛠
+- **[AI Cardio Coach](https://github.com/shibby576/workout)** (2026) — turns Strava data into a coach's note on every workout. The interesting part is the method, not the app: a [custom eval rubric](https://github.com/shibby576/workout/blob/main/evals/RUBRIC.md) with anchored scales and faithfulness gates, used to run model bake-offs and pick the generator — then output evals to keep improving it. Architecture rule: everything quantitative is computed deterministically; the model only narrates. Faithfulness as a property of the system, not a hope.
 - **[TrailPlot](https://trailplot.com/)** (2026) — custom trail-map poster shop. Designed and built with Claude Code, live and taking orders.
 - **[SpotBot](https://github.com/shibby576/spot-bot)** — autonomous Spotify agent and DJ. Python + LangChain + ReAct-style tool use.
 - **[Chiclet Q&A](https://github.com/shibby576/chiclet/tree/main)** — RAG app that answers questions about podcast episodes. Embeddings + FAISS + prompt guardrails.
