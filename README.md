@@ -6,7 +6,7 @@ I turn frontier model capabilities into products people love.
 🤖 Product Manager @ Meta, building AI products. Shipped 0→1 agentic support experiences now serving billions of users.
 
 #### Past product experience
-- **Head of Product @ Semantiks** — built autonomous AI agents for banking and bill pay ([overview](https://github.com/shibby576/semantiks_portfolio/tree/main))
+- **Head of Product @ Semantiks** — shipped aivy, a WhatsApp conversational layer for consumer services in Mexico: Cinépolis/Cinemex movie tickets, CFE/AT&T/AMEX bill pay, multilingual voice input ([overview](https://github.com/shibby576/semantiks_portfolio/tree/main))
 - **Co-founder & Head of Product @ Beep** — auto marketplace startup; $15M revenue, 22-person team ([overview](https://github.com/shibby576/semantiks_portfolio/blob/main/beep.md))
 - **Sr. PM @ Verizon** — VZ Cloud Unlimited, $23M/yr SaaS, 350k paid customers
 - **Sr. Director of Product @ Olive AI** — healthcare automation platform across 900+ hospitals
